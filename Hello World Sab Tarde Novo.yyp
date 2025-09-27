@@ -39,6 +39,7 @@
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},},
     {"id":{"name":"rmFase1","path":"rooms/rmFase1/rmFase1.yy",},},
     {"id":{"name":"sprCirculo","path":"sprites/sprCirculo/sprCirculo.yy",},},
+    {"id":{"name":"sprColetavel","path":"sprites/sprColetavel/sprColetavel.yy",},},
     {"id":{"name":"sprFundo","path":"sprites/sprFundo/sprFundo.yy",},},
     {"id":{"name":"sprFundoOnda","path":"sprites/sprFundoOnda/sprFundoOnda.yy",},},
     {"id":{"name":"sprInimigo","path":"sprites/sprInimigo/sprInimigo.yy",},},
