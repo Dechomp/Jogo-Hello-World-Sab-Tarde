@@ -32,9 +32,10 @@ room_restart():
 function room_restart() Undefined
 This function will restart the current room, as if it had just been entered.
 
-Função room_restart(sem parametro) e retorno indefindo ou vazio:
+Função room_restart(sem parametro) e retorno indefinido ou vazio:
 esta função irá reiniciar a sala atual, como se tivisse acabada de ser executada - 
 (ou seja, como ela foi feita normalmente)
 */
+global.quantidadeColetaveis = 0
 instance_destroy()
 room_restart()
